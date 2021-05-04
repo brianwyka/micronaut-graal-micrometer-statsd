@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: io.github.brianwyka
+testFramework: spock
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, graalvm, http-client, java, java-application, logback, management, maven, micrometer, micrometer-statsd, netty-server, readme, shade, spock, yaml]
